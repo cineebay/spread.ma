@@ -1,0 +1,139 @@
+{
+  "heading": "We provide the best digital services",
+  "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+  "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+  "serviceData": [
+    {
+      "id": 1,
+      "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "iconClass": "flaticon-web color-3 icon-bg-3",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 4,
+      "iconClass": "flaticon-smartphone color-4 icon-bg-4",
+      "title": "App Development",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 5,
+      "iconClass": "flaticon-email color-5 icon-bg-5",
+      "title": "Email Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 6,
+      "iconClass": "flaticon-affiliate color-6 icon-bg-6",
+      "title": "Affiliate Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    }
+  ],
+  "serviceData_1": [
+    {
+      "id": 1,
+      "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "iconClass": "flaticon-web color-3 icon-bg-3",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    }
+  ],
+  "serviceData_2": [
+    {
+      "id": 1,
+      "image": "/img/case_studies_1.jpg",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "image": "/img/case_studies_2.jpg",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "image": "/img/case_studies_3.jpg",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 4,
+      "image": "/img/case_studies_4.jpg",
+      "title": "App Development",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 5,
+      "image": "/img/case_studies_5.jpg",
+      "title": "Email Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 6,
+      "image": "/img/case_studies_6.jpg",
+      "title": "Affiliate Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    }
+  ],
+  "serviceData_3": [
+    {
+      "id": 1,
+      "image": "/img/case_studies_1.jpg",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "image": "/img/case_studies_2.jpg",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "image": "/img/case_studies_3.jpg",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    }
+  ]
+}
