@@ -1,0 +1,55 @@
+{
+  "heading": "We help to grow your business.",
+  "heading_1": "Relations Publiques",
+  "heading_1_span": " et Médias Sociaux",
+  "headingText_1": "Fournissez un contenu cohérent et engageant sur toutes les plateformes de médias sociaux à partir d'un point de contact, augmentant ainsi la portée et l'engagement de votre communauté sociale.",
+  "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+  "contentThumb": "/img/content_thumb.png",
+  "profileIcon_1": "/img/profile_icon_1.svg",
+  "profileIcon_2": "/img/profile_icon_2.svg",
+  "profileIcon_3": "/img/profile_icon_3.svg",
+  "profileIcon_4": "/img/profile_icon_4.svg",
+  "folderImg": "/img/folders.png",
+  "folderImg_1": "/img/folders_2.png",
+  "btnText": "En savoir plus",
+  "contentData": [
+    {
+      "id": 1,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Online Presence",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 2,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Marketing Stretagy",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 3,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Promote Local Sales",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    }
+  ],
+  "contentData_1": [
+    {
+      "id": 1,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Content Strategy",
+      "text": "Digital Spread crée un contenu clé qui donne une valeur réelle, se propage facilement et maximise l'engagement."
+    },
+    {
+      "id": 2,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Public Relations Marketing",
+      "text": "Les relations publiques doivent faire partie intégrante du plan marketing continu de votre entreprise. Digital Spread vous aide à exécuter votre campagne de RP en fonction de vos objectifs."
+    },
+    {
+      "id": 3,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Remarketing",
+      "text": "Renouez avec vos clients en leur proposant des publicités dynamiques, spécifiques au produit exact qu'ils ont consulté sur votre site Web."
+    }
+  ]
+}
