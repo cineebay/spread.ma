@@ -1,55 +1,139 @@
 {
-  "heading": "COMMENT NOUS GRANDISSONS VOTRE ENTREPRISE?",
-  "heading_1": "Relations Publiques",
-  "heading_1_span": " et Médias Sociaux",
-  "headingText_1": "Vous avez besoin d'une campagne de marketing unique que nous pouvons mesurer, de référence, adapter à un marché en constante évolution.",
+  "heading": "We provide the best digital services",
+  "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
   "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-  "contentThumb": "/img/content_thumb.png",
-  "profileIcon_1": "/img/profile_icon_1.svg",
-  "profileIcon_2": "/img/profile_icon_2.svg",
-  "profileIcon_3": "/img/profile_icon_3.svg",
-  "profileIcon_4": "/img/profile_icon_4.svg",
-  "folderImg": "/img/folders.png",
-  "folderImg_1": "/img/folders_2.png",
-  "btnText": "Learn More",
-  "contentData": [
+  "serviceData": [
     {
       "id": 1,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Online Presence",
-      "text": "Chaque campagne de marketing digital doit commencer par une réévaluation de votre présence sur le Web."
+      "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
     },
     {
       "id": 2,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Marketing Stretagy",
-      "text": "Campagne de marketing efficace avec une publicité ciblée et stratégique et un référencement adapté au marché pour une connexion constante avec de nouveaux clients et des clients réguliers"
+      "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
     },
     {
       "id": 3,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Spread The Word",
-      "text": "Gardez votre marque et votre message cohérents et frais avec notre équipe de création interne capable de tout, de la programmation à la production vidéo."
+      "iconClass": "flaticon-web color-3 icon-bg-3",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 4,
+      "iconClass": "flaticon-smartphone color-4 icon-bg-4",
+      "title": "App Development",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 5,
+      "iconClass": "flaticon-email color-5 icon-bg-5",
+      "title": "Email Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 6,
+      "iconClass": "flaticon-affiliate color-6 icon-bg-6",
+      "title": "Affiliate Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
     }
   ],
-  "contentData_1": [
+  "serviceData_1": [
     {
       "id": 1,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Digital Agency & Marketing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+      "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
     },
     {
       "id": 2,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Planning To Startup",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+      "iconClass": "flaticon-monitoring color-2 icon-bg-2",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
     },
     {
       "id": 3,
-      "iconClass": "fas fa-angle-double-right",
-      "title": "Content Management",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+      "iconClass": "flaticon-web color-3 icon-bg-3",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
+      "btnText": "Learn More"
+    }
+  ],
+  "serviceData_2": [
+    {
+      "id": 1,
+      "image": "/img/case_studies_1.jpg",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "image": "/img/case_studies_2.jpg",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "image": "/img/case_studies_3.jpg",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 4,
+      "image": "/img/case_studies_4.jpg",
+      "title": "App Development",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 5,
+      "image": "/img/case_studies_5.jpg",
+      "title": "Email Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 6,
+      "image": "/img/case_studies_6.jpg",
+      "title": "Affiliate Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    }
+  ],
+  "serviceData_3": [
+    {
+      "id": 1,
+      "image": "/img/case_studies_1.jpg",
+      "title": "Data Analytics",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 2,
+      "image": "/img/case_studies_2.jpg",
+      "title": "Website Growth",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
+    },
+    {
+      "id": 3,
+      "image": "/img/case_studies_3.jpg",
+      "title": "Seo Ranking",
+      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "btnText": "Learn More"
     }
   ]
 }
