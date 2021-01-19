@@ -1,0 +1,26 @@
+{
+  "heading": "Let's connect!",
+  "headingText_1": "Digital Spread est spécialisé dans les domaines de la communication, digital marketing, motion design, SEO, Branding, ainsi que d'autres services digital.",
+  "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+  "btnText": "Envoyer le Message",
+  "contactData": [
+    {
+      "id": 1,
+      "listClass": "contact-info color-1 bg-hover active hover-bottom text-center p-5 m-3",
+      "listClass_1": "contact-info color-1 bg-hover active hover-bottom dark-shadow text-center p-5 m-3",
+      "iconClass": "fas fa-mobile-alt fa-3x",
+      "linkClass": "d-block my-2",
+      "title": "+212 6 40 20 46 38",
+      "text": "Contactez notre agence 5 jours sur 7 de 8h à 18h"
+    },
+    {
+      "id": 2,
+      "listClass": "contact-info color-3 bg-hover active hover-bottom text-center p-5 m-3",
+      "listClass_1": "contact-info color-3 bg-hover active hover-bottom dark-shadow text-center p-5 m-3",
+      "iconClass": "fas fa-envelope-open-text fa-3x",
+      "linkClass": "d-block my-2",
+      "title": "Contact@spread.ma",
+      "text": "Contactez-nous par email 24/7"
+    }
+  ]
+}
