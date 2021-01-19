@@ -11,67 +11,67 @@
     },
     {
       "id": 2,
-      "image": "/img/team_thumb_2.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Ihsane Oufir",
       "post": "Directrice du Marketing Digital"
     },
     {
       "id": 3,
-      "image": "/img/team_thumb_3.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Mahmoud Ben Maji",
       "post": "Développeur Full Stack"
     },
     {
       "id": 4,
-      "image": "/img/team_thumb_4.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Abd-Rezzaq Bouir",
       "post": "Designer Graphique"
     },
     {
       "id": 5,
-      "image": "/img/team_thumb_5.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Boutaina Ait Ouahmane",
       "post": "Content Manager"
     },
     {
       "id": 6,
-      "image": "/img/team_thumb_6.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Driss Oualim",
       "post": "Social Media, SEO Specialist"
     },
     {
       "id": 7,
-      "image": "/img/team_thumb_7.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Salma Aboufariss",
       "post": "Assistant Administratif"
     },
     {
       "id": 8,
-      "image": "/img/team_thumb_8.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Hicham Assioua",
       "post": "Responsable marketing mobile"
     },
     {
       "id": 9,
-      "image": "/img/team_thumb_9.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Fatima Fitri",
       "post": "Responsable Marketing Digital"
     },
     {
       "id": 10,
-      "image": "/img/team_thumb_10.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Meryem Barri",
       "post": "Coordinatrice de production"
     },
     {
       "id": 11,
-      "image": "/img/team_thumb_11.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Said Ez-zakry",
       "post": "Chef de projet"
     },
     {
       "id": 12,
-      "image": "/img/team_thumb_12.jpg",
+      "image": "/img/team_thumb_1.jpg",
       "name": "Soufiane Bendadda",
       "post": "Directeur de production"
     }
