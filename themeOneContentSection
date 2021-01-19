@@ -1,0 +1,55 @@
+{
+  "heading": "We help to grow your business.",
+  "heading_1": "Work smarter,",
+  "heading_1_span": "not harder.",
+  "headingText_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+  "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+  "contentThumb": "/img/content_thumb.png",
+  "profileIcon_1": "/img/profile_icon_1.svg",
+  "profileIcon_2": "/img/profile_icon_2.svg",
+  "profileIcon_3": "/img/profile_icon_3.svg",
+  "profileIcon_4": "/img/profile_icon_4.svg",
+  "folderImg": "/img/folders.png",
+  "folderImg_1": "/img/folders_2.png",
+  "btnText": "Learn More",
+  "contentData": [
+    {
+      "id": 1,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Online Presence",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 2,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Marketing Stretagy",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 3,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Promote Local Sales",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    }
+  ],
+  "contentData_1": [
+    {
+      "id": 1,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Digital Agency & Marketing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 2,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Planning To Startup",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    },
+    {
+      "id": 3,
+      "iconClass": "fas fa-angle-double-right",
+      "title": "Content Management",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis, distinctio."
+    }
+  ]
+}
