@@ -1,0 +1,141 @@
+{
+  "blogData": [
+    {
+      "id": 1,
+      "image": "/img/blog_1.jpg",
+      "author": "Anna Sword",
+      "date": "Feb 05, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 2,
+      "image": "/img/blog_2.jpg",
+      "author": "Jassica William",
+      "date": "May 11, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 3,
+      "image": "/img/blog_3.jpg",
+      "author": "John Doe",
+      "date": "Mar 05, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 4,
+      "image": "/img/blog_4.jpg",
+      "author": "Anna Sword",
+      "date": "Nov 12, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 5,
+      "image": "/img/blog_5.jpg",
+      "author": "Jassica William",
+      "date": "Oct 02, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 6,
+      "image": "/img/blog_6.jpg",
+      "author": "John Deo",
+      "date": "Aug 17, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    }
+  ],
+  "blogData_1": [
+    {
+      "id": 1,
+      "image": "/img/blog_1.jpg",
+      "author": "Anna Sword",
+      "date": "Feb 05, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 2,
+      "image": "/img/blog_2.jpg",
+      "author": "Jassica William",
+      "date": "May 11, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 3,
+      "image": "/img/blog_3.jpg",
+      "author": "John Doe",
+      "date": "Mar 05, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 4,
+      "image": "/img/blog_4.jpg",
+      "author": "Anna Sword",
+      "date": "Nov 12, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 5,
+      "image": "/img/blog_5.jpg",
+      "author": "Jassica William",
+      "date": "Oct 02, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 6,
+      "image": "/img/blog_6.jpg",
+      "author": "John Deo",
+      "date": "Aug 17, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 7,
+      "image": "/img/blog_7.jpg",
+      "author": "Junaid Hasan",
+      "date": "Sep 09, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 8,
+      "image": "/img/blog_8.jpg",
+      "author": "Yasmin Akter",
+      "date": "Apr 19, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    },
+    {
+      "id": 9,
+      "image": "/img/blog_9.jpg",
+      "author": "John Deo",
+      "date": "Jan 06, 2020",
+      "title": "Blog Title Here",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione obcaecati, animi vitae recusandae, praesentium quae.",
+      "btnText": "Read More"
+    }
+  ]
+}
