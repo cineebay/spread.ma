@@ -8,14 +8,14 @@
       "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
       "title": "Advanced Web Analytics",
       "text": "Nos services couvrent tous les aspects de Google Analytics, de la configuration initiale à la formation, en passant par les solutions de suivi avancées et les fonctionnalités personnalisées.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 2,
       "iconClass": "flaticon-monitoring color-2 icon-bg-2",
       "title": "Content Strategy",
       "text": "Interagissez avec votre public grace à un contenu original et de qualité pour attirer et fidéliser un public clairement défini.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 3,
@@ -29,21 +29,21 @@
       "iconClass": "flaticon-smartphone color-4 icon-bg-4",
       "title": "Pay Per Click",
       "text": "Le marketing Pay-Per-Click est un moyen efficace et rentable d'atteindre plus de clients. Nous savons tout sur le PPC!",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 5,
       "iconClass": "flaticon-email color-5 icon-bg-5",
       "title": "Email Marketing",
       "text": "Nos services de marketing par e-mail personnalisés peuvent vous aider à gagner du temps et de l'argent.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 6,
       "iconClass": "flaticon-affiliate color-6 icon-bg-6",
       "title": "Social Media Marketing",
       "text": "Les clients interagissent avec les marques via les réseaux sociaux. S'il est mis en œuvre correctement, SMM peut apporter un succès remarquable à votre entreprise.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     }
   ],
   "serviceData_1": [
@@ -52,14 +52,14 @@
       "iconClass": "flaticon-rocket-launch color-1 icon-bg-1",
       "title": "Data Analytics",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 2,
       "iconClass": "flaticon-monitoring color-2 icon-bg-2",
       "title": "Website Growth",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod tempor incididunt emit.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 3,
@@ -89,28 +89,28 @@
       "image": "/img/case_studies_3.jpg",
       "title": "Seo Ranking",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     },
     {
       "id": 4,
       "image": "/img/case_studies_4.jpg",
       "title": "App Development",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     },
     {
       "id": 5,
       "image": "/img/case_studies_5.jpg",
       "title": "Email Marketing",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     },
     {
       "id": 6,
       "image": "/img/case_studies_6.jpg",
       "title": "Affiliate Marketing",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     }
   ],
   "serviceData_3": [
@@ -119,14 +119,14 @@
       "image": "/img/case_studies_1.jpg",
       "title": "Data Analytics",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     },
     {
       "id": 2,
       "image": "/img/case_studies_2.jpg",
       "title": "Website Growth",
       "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
-      "btnText": "Learn More"
+      "btnText": "En savoir plus"
     },
     {
       "id": 3,
