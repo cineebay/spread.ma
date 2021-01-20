@@ -102,14 +102,14 @@
       "id": 5,
       "image": "/img/case_studies_5.jpg",
       "title": "Email Marketing",
-      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "text": "Nos services de marketing par e-mail personnalisés peuvent vous aider à gagner du temps et de l'argent.",
       "btnText": "En savoir plus"
     },
     {
       "id": 6,
       "image": "/img/case_studies_6.jpg",
-      "title": "Affiliate Marketing",
-      "text": "Lorem ipsum dolor sit amet, consectet ur adipisicing elit.",
+      "title": "Social Media Marketing",
+      "text": "Les clients interagissent avec les marques via les réseaux sociaux. S'il est mis en œuvre correctement, SMM peut apporter un succès remarquable à votre entreprise.",
       "btnText": "En savoir plus"
     }
   ],
