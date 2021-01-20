@@ -23,9 +23,9 @@
       "li_3": "Par telephone",
       "li_4": "Email ou Skype",
       "listClass_1": "py-2",
-      "listClass_2": "py-2 text-muted",
+      "listClass_2": "py-2",
       "listClass_3": "text-white py-2",
-      "listClass_4": "py-2 text-muted",
+      "listClass_4": "py-2",
       "btnClass": "btn btn-bordered mt-3",
       "btnClass_1": "btn btn-bordered-white mt-3",
       "btnText": "Consultation Gratuite"
