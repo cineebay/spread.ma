@@ -1,7 +1,7 @@
 {
   "heading": "Nos services de marketing Digital",
   "headingText_1": "Nous sommes fiers de fournir des solutions de marketing digital convaincantes. Nos solutions et expériences gagnantes aident un bon nombre de nos clients à interagir et à s'engager avec leurs clients de la meilleure façon possible.",
-  "headingText_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+  "headingText_2": "Nous sommes fiers de fournir des solutions de marketing digital convaincantes. Nos solutions et expériences gagnantes aident un bon nombre de nos clients à interagir et à s'engager avec leurs clients de la meilleure façon possible.",
   "serviceData": [
     {
       "id": 1,
@@ -15,35 +15,35 @@
       "iconClass": "flaticon-monitoring color-2 icon-bg-2",
       "title": "Content Strategy",
       "text": "Interagissez avec votre public grace à un contenu original et de qualité pour attirer et fidéliser un public clairement défini.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 3,
       "iconClass": "flaticon-web color-3 icon-bg-3",
       "title": "Search Engine Optimization",
       "text": "L'optimisation des moteurs de recherche est fondamentale. Nos stratégies de SEO peuvent vous accorder un placement de haut niveau dans les résultats de recherche.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 4,
       "iconClass": "flaticon-smartphone color-4 icon-bg-4",
       "title": "Pay Per Click",
       "text": "Le marketing Pay-Per-Click est un moyen efficace et rentable d'atteindre plus de clients. Nous savons tout sur le PPC!",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 5,
       "iconClass": "flaticon-email color-5 icon-bg-5",
       "title": "Email Marketing",
       "text": "Nos services de marketing par e-mail personnalisés peuvent vous aider à gagner du temps et de l'argent.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     },
     {
       "id": 6,
       "iconClass": "flaticon-affiliate color-6 icon-bg-6",
       "title": "Social Media Marketing",
       "text": "Les clients interagissent avec les marques via les réseaux sociaux. S'il est mis en œuvre correctement, SMM peut apporter un succès remarquable à votre entreprise.",
-      "btnText": ""
+      "btnText": "En savoir plus"
     }
   ],
   "serviceData_1": [
